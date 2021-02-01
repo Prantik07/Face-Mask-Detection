@@ -4,5 +4,5 @@ LOSS - 0.0207 | ACCURACY - 0.9938
 VAL_LOSS - 0.0208 | VAL_ACCURACY - 0.9961
 
 ----------------------------------
-
+tensorflow version = 2.4.0
 old version backed up on Gdrive | face-Mask-Detection - prantik_ug@ei.nits.ac.in
